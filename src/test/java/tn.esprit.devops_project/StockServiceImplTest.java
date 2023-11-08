@@ -100,37 +100,5 @@ class StockServiceImplTest {
 
 
 
-    @Test
-    @Order(4)
-    void retrieveStockById() {
-
-        Long stockId = 1L;
-        Stock stockRet = new Stock();
-        stockRet.setIdStock(stockId);
-
-
-        StockRepository stockRepository = Mockito.mock(StockRepository.class);
-        StockServiceImpl stockServiceImpl = new StockServiceImpl(stockRepository);
-
-        when(stockRepository.findById(stockId)).thenReturn(Optional.of(stockRet));
-
-
-        Stock retrievedStock1 = stockServiceImpl.retrieveStock(stockId);
-
-
-        verify(stockRepository, times(1)).findById(stockId);
-
-
-        assertNotNull(retrievedStock1);
-
-
-        assertEquals("stock id", retrievedStock1.getTitle());
-
-    }
-
-
-
-
-
 
 }

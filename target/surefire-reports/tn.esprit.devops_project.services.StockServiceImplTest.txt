@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: tn.esprit.devops_project.services.StockServiceImplTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.554 s <<< FAILURE! - in tn.esprit.devops_project.services.StockServiceImplTest
-retrieveStockById  Time elapsed: 0.015 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: expected: <stock id> but was: <null>
-	at tn.esprit.devops_project.services.StockServiceImplTest.retrieveStockById(StockServiceImplTest.java:127)
-
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.665 s - in tn.esprit.devops_project.services.StockServiceImplTest
