@@ -6,7 +6,51 @@
   <component name="ChangeListManager">
     <list default="true" id="3f06e138-808a-419c-a037-55631dfc4404" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tn.esprit.devops_project/StockServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tn.esprit.devops_project/StockServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/DevOps_ProjectSpringBootApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/controllers/ActivitySectorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/controllers/InvoiceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/controllers/OperatorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/controllers/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/controllers/StockController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/controllers/SupplierController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/entities/ActivitySector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/entities/Invoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/entities/InvoiceDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/entities/Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/entities/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/entities/ProductCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/entities/Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/entities/Supplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/entities/SupplierCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/repositories/ActivitySectorRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/repositories/InvoiceDetailRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/repositories/InvoiceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/repositories/OperatorRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/repositories/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/repositories/StockRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/repositories/SupplierRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/ActivitySectorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/InvoiceServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/Iservices/IActivitySector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/Iservices/IInvoiceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/Iservices/IOperatorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/Iservices/IProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/Iservices/IStockService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/Iservices/ISupplierService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/OperatorServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/StockServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/devops_project/services/SupplierServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2023-11-08T14-23-34_159-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2023-11-08T14-24-13_861-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tn.esprit.devops_project.services.StockServiceImplTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tn.esprit.devops_project.services.StockServiceImplTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tn/esprit/devops_project/services/StockServiceImplTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +145,7 @@
       <workItem from="1699380905065" duration="143000" />
       <workItem from="1699381073273" duration="79000" />
       <workItem from="1699381172210" duration="1418000" />
-      <workItem from="1699435925453" duration="14136000" />
+      <workItem from="1699435925453" duration="15529000" />
     </task>
     <servers />
   </component>
