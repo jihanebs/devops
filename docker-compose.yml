@@ -6,7 +6,7 @@ networks:
 services:
 
   mysqldb:
-    container_name: mysqll-container-new
+    container_name: mysql-container-new-new
     image: "mysql:latest"
     restart: unless-stopped
     ports:
@@ -19,7 +19,7 @@ services:
       - springboot-mysql-net
 
   stock:
-    container_name: stockk_container
+    container_name: stock_container-new
     build: ./
     image: jihane03/stock
     restart: unless-stopped
